@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON301: History of Economic Ideas"
+course_description: "A survey of the development of economic thoughts and ideas from ancient times through the classical and neo-classical era, outlining the historical and intellectual framework from which these ideas have grown."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Neoclassicism, Keynesianism, and Post-War Economic Thought**
 <span id="4"></span> 
 *Modern thinking presents many challenges to historians. Because we lack

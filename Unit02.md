@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON301: History of Economic Ideas"
+course_description: "A survey of the development of economic thoughts and ideas from ancient times through the classical and neo-classical era, outlining the historical and intellectual framework from which these ideas have grown."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: European Thought: Scholastics and Mercantilists** <span
 id="2"></span> 
 *The late Scholastics, adherents to the school of thought known as

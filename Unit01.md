@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON301: History of Economic Ideas"
+course_description: "A survey of the development of economic thoughts and ideas from ancient times through the classical and neo-classical era, outlining the historical and intellectual framework from which these ideas have grown."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Ancient Economic Thought** <span id="1"></span> 
 *Historians are limited by the documents civilizations leave behind. The
 earliest examples of recorded history came from the Ancient Near East,

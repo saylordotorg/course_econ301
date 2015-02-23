@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON301: History of Economic Ideas"
+course_description: "A survey of the development of economic thoughts and ideas from ancient times through the classical and neo-classical era, outlining the historical and intellectual framework from which these ideas have grown."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "ECON301: History of Economic Ideas"
 --------------------------------------------------------
 

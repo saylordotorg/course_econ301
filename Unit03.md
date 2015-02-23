@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON301: History of Economic Ideas"
+course_description: "A survey of the development of economic thoughts and ideas from ancient times through the classical and neo-classical era, outlining the historical and intellectual framework from which these ideas have grown."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Classical Economics** <span id="3"></span> 
 *The classical economics period spanned from 1776 to the
 mid-19<sup>th</sup> century. Economists of the time tried to explain the

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON301: History of Economic Ideas"
+course_description: "A survey of the development of economic thoughts and ideas from ancient times through the classical and neo-classical era, outlining the historical and intellectual framework from which these ideas have grown."
+next: ../../../
+previous: ../Unit04
+---
 **Unit 5: Final Exam** <span id="5"></span> 
 -   **Final Exam: The Saylor Foundation’s “ECON301 Final Exam”**
     Link: The Saylor Foundation’s [“ECON301 Final
