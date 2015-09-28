@@ -158,3 +158,4 @@ Friday; etc.
 - [Unit 3](https://legacy.saylor.org/econ301/Unit03/)
 - [Unit 4](https://legacy.saylor.org/econ301/Unit04/)
 - [Unit 5](https://legacy.saylor.org/econ301/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ECON/ECON301/ECON301-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ECON/ECON301/ECON301-FinalExam-Answers.html)
