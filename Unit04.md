@@ -305,7 +305,7 @@ id="4.3.3"></span> 
     Theory vs. Praxis”**
     Link: The Saylor Foundation’s [“General Equilibrium Theory: Theory
     vs.
-    Praxis”](http://www.saylor.org/site/wp-content/uploads/2013/09/ECON301-Subunit4.3.3-GeneralEquilbriumTheory-FINAL.pdf)
+    Praxis”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ECON301-Subunit4.3.3-GeneralEquilbriumTheory-FINAL.pdf)
     (PDF)  
       
      Instructions: Read this essay on developments from the interwar
@@ -318,7 +318,7 @@ id="4.3.3"></span> 
 **4.4 Unit 4 Reading Questions** <span id="4.4"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 4 Reading Questions”**
     Link: The Saylor Foundation’s [“Unit 4 Reading
-    Questions”](http://www.saylor.org/site/wp-content/uploads/2013/09/ECON301-Unit4ReadingQuestions-PR-FINAL-RV-Final.pdf)
+    Questions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ECON301-Unit4ReadingQuestions-PR-FINAL-RV-Final.pdf)
     (PDF)  
         
      Instructions: Complete this set of reading questions, referring to
@@ -331,7 +331,7 @@ id="4.3.3"></span> 
     well as review and respond to one or two other students’ posts. When
     you are done – or if you are stuck – check your work against The
     Saylor Foundation’s [“Guide to Responding to Unit 4 Reading
-    Questions”](http://www.saylor.org/site/wp-content/uploads/2013/09/ECON301-Unit4GuidetoReadingQuestions-FINAL-RV-FINAL.pdf)
+    Questions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ECON301-Unit4GuidetoReadingQuestions-FINAL-RV-FINAL.pdf)
     for some notes on possible answers.  
       
      Completing this assessment should take approximately 2 hours.
