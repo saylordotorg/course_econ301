@@ -71,7 +71,7 @@ Upon successful completion of this unit, you will be able to:
     Nature and Causes of the Wealth of Nations*, Books I–III**
     Link: Project Gutenberg: Adam Smith’s [*An Inquiry into the Nature
     and Causes of the Wealth of
-    Nations*](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ECON301-2.3.2.pdf),
+    Nations*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ECON301-2.3.2.pdf),
     Books I–III *(PDF)*  
         
      Instructions: Read the first three books of the *Wealth of Nations*
@@ -137,13 +137,13 @@ Upon successful completion of this unit, you will be able to:
     Political Economy and Taxation***
     Link: Project Gutenberg: David Ricardo’s [*Principles of Political
     Economy and
-    Taxation *](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ECON301-3.2.2.pdf)(PDF)  
+    Taxation *](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ECON301-3.2.2.pdf)(PDF)  
         
      Also available in:  
      [Google
     Books](http://books.google.com/books?id=iUUJAAAAQAAJ&printsec=frontcover&dq=principles+of+political+economy+and+taxation&hl=en&ei=S21lTYTMB4zqgQfk37S0Bw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCcQ6AEwAA)  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ECON301-3.2.2-Principles-of-Political-Economy-and-Taxation-David-Ricardo.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ECON301-3.2.2-Principles-of-Political-Economy-and-Taxation-David-Ricardo.epub)  
       
      Instructions: Read *Principles of Political Economy and Taxation.*
     This reading is lengthy, so it is recommended that you break up the
@@ -174,11 +174,11 @@ Upon successful completion of this unit, you will be able to:
     Morals and Legislation*: “Preface and Chapters 1–5”**
     Link: Jeremy Bentham’s *An Introduction to the Principles of Morals
     and Legislation*: [“Preface and Chapters
-    1–5”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ECON301-3.3.2.pdf) (PDF)  
+    1–5”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ECON301-3.3.2.pdf) (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ECON301-3.3.2-_An-Introduction-to-the-Principles_of-Morals-and-Legislation_-Jeremy-Bentham.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ECON301-3.3.2-_An-Introduction-to-the-Principles_of-Morals-and-Legislation_-Jeremy-Bentham.epub)  
         
      Instructions: Read the preface and the first five chapters of
     Bentham’s *An Introduction to the Principles of Morals and
@@ -444,7 +444,7 @@ id="3.4.4"></span> 
 **Unit 3 Reading Questions** <span id="3.7"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 3 Reading Questions”**
     Link: The Saylor Foundation’s [“Unit 3 Reading
-    Questions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ECON301-Unit3ReadingQuestions-PR-FINAL-RV-Final.pdf)
+    Questions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/ECON301-Unit3ReadingQuestions-PR-FINAL-RV-Final.pdf)
     (PDF)  
       
      Instructions: Complete this set of reading questions, referring to
@@ -457,7 +457,7 @@ id="3.4.4"></span> 
     well as review and respond to one or two other students’ posts. When
     you are done – or if you are stuck – check your work against The
     Saylor Foundation’s [“Guide to Responding to Unit 3 Reading
-    Questions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ECON301-Unit3GuidetoReadingQuestions-PR-FINAL-RV-FINAL.pdf)
+    Questions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/ECON301-Unit3GuidetoReadingQuestions-PR-FINAL-RV-FINAL.pdf)
     for some notes on possible answers.  
       
      Completing this assessment should take approximately 2 hours.
