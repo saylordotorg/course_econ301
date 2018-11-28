@@ -72,7 +72,7 @@ computer;
  √    be competent in the English language;  
   
  √    have read the [Saylor Student
-Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
 and  
   
  √    have completed the following courses from the [Core
@@ -111,7 +111,7 @@ resources are most prominently used:
 -   David Ricardo’s [*Principles of Political Economy and
     Taxation*](http://www.gutenberg.org/files/33310/33310-h/33310-h.htm)
 -   Jeremy Bentham’s [*An Introduction to the Principles of Morals and
-    Legislation*](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ECON301-3.3.2.pdf)
+    Legislation*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ECON301-3.3.2.pdf)
 -   Karl Marx’s
     *[Capital](http://www.marxists.org/archive/marx/works/1894-c3/ch14.htm)*
 -   Alfred Marshall’s *[Principles of

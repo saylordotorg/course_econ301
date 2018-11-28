@@ -124,9 +124,9 @@ Upon successful completion of this unit, you will be able to:
     Usury”**
     Link: St. Thomas Aquinas’s *Summa Theologica: *[“Of Cheating, Which
     Is Committed in Buying and
-    Selling”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ECON301-2.1.2-1st.pdf) (PDF)
+    Selling”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/ECON301-2.1.2-1st.pdf) (PDF)
     and [“Of the Sin of
-    Usury”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ECON301-2.1.2-2nd.pdf) (PDF)  
+    Usury”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/ECON301-2.1.2-2nd.pdf) (PDF)  
         
      Also available in:  
      [Google
@@ -182,12 +182,12 @@ Upon successful completion of this unit, you will be able to:
     and Political Arithmetic”**
     Link: Project Gutenberg: Sir William Petty’s [“Essays on Mankind and
     Political
-    Arithmetic”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ECON301-2.2.2.pdf)
+    Arithmetic”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ECON301-2.2.2.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ECON301-2.2.2-_Essays-on-Mankind-and-Political-Arithmetic_-Sir-William-Petty.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ECON301-2.2.2-_Essays-on-Mankind-and-Political-Arithmetic_-Sir-William-Petty.epub)  
       
      Instructions: This is a lengthy series of essays. Read through
     them, paying particular attention to Petty’s methods for calculating
@@ -241,7 +241,7 @@ Cantillon, and Jacques Turgot** <span id="2.3"></span> 
 -   **Reading: John Locke’s *Second Treatise of Government*: “Chapter V:
     Of Property”**
     Link: John Locke’s *Second Treatise of Government*: [“Chapter V: Of
-    Property”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/POLSC2012.3.pdf) (PDF)  
+    Property”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/POLSC2012.3.pdf) (PDF)  
         
      Instructions: Although considered more of a political philosopher,
     read Locke’schapter 5 on pages 15–25. Pay attention to how Locke’s
@@ -352,7 +352,7 @@ Cantillon, and Jacques Turgot** <span id="2.3"></span> 
 **Unit 2 Reading Questions** <span id="2.4"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 2 Reading Questions”**
     Link: The Saylor Foundation’s [“Unit 2 Reading
-    Questions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ECON301-Unit2ReadingQuestions-PR-FINAL-RV-Final.pdf)
+    Questions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/ECON301-Unit2ReadingQuestions-PR-FINAL-RV-Final.pdf)
     (PDF)  
         
      Instructions: Complete this set of reading questions, referring to
@@ -365,7 +365,7 @@ Cantillon, and Jacques Turgot** <span id="2.3"></span> 
     well as review and respond to one or two other students’ posts. When
     you are done – or if you are stuck – check your work against The
     Saylor Foundation’s [“Guide to Responding to Unit 2 Reading
-    Questions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ECON301-Unit2GuidetoReadingQuestions-FINAL-RV-Final.pdf)
+    Questions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/ECON301-Unit2GuidetoReadingQuestions-FINAL-RV-Final.pdf)
     for some notes on possible answers.  
       
      Completing this assessment should take approximately 2 hours.

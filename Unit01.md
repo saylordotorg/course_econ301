@@ -64,7 +64,7 @@ Upon successful completion of this unit, you will be able to:
 Mesopotamia** <span id="1.1"></span> 
 -   **Reading: André Dollinger’s “The Ancient Egyptian Economy”**
     Link: André Dollinger’s [“The Ancient Egyptian
-    Economy”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/The-Ancient-Egyptian-Economy.pdf)
+    Economy”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/The-Ancient-Egyptian-Economy.pdf)
     (PDF)  
         
      Instructions: Read this article, which presents an overview of
@@ -111,7 +111,7 @@ Mesopotamia** <span id="1.1"></span> 
 
 -   **Reading: Wikipedia: “Fan Li”**
     Link: Wikipedia: [“Fan
-    Li”](https://resources.saylor.org/archived/wp-content/uploads/2011/03/Fan-Li.pdf) (PDF)  
+    Li”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/Fan-Li.pdf) (PDF)  
         
      Instructions: Read the biography of Fan Li as well as the 24 rules
     for business. These rules were written in the 5<sup>th</sup> century
@@ -196,11 +196,11 @@ Mesopotamia** <span id="1.1"></span> 
     Sourcebook*: Excerpts from Kautilya’s *The Arthashastra***
     Link: Fordham University’s *Internet Indian History Sourcebook*: **
     Excerpts from Kautilya’s *[The
-    Arthashastra](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ECON301-1.3.pdf) (*PDF)  
+    Arthashastra](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/ECON301-1.3.pdf) (*PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ECON301-1.3-Arthashastra-Chanakya.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ECON301-1.3-Arthashastra-Chanakya.epub)  
       
      Instructions: Read the selected excerpts from books 1–4 of
     *Arthashastra.* The authorship of the work is the source of some
@@ -222,7 +222,7 @@ Mesopotamia** <span id="1.1"></span> 
 **Unit 1 Reading Questions** <span id="1.3"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 1 Reading Questions”**
     Link: The Saylor Foundation’s [“Unit 1 Reading
-    Questions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ECON301-Unit1ReadingQuestions-PR-FINAL-RV-Final.pdf)
+    Questions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/ECON301-Unit1ReadingQuestions-PR-FINAL-RV-Final.pdf)
     (PDF)  
         
      Instructions: Complete this set of reading questions, referring to
@@ -235,7 +235,7 @@ Mesopotamia** <span id="1.1"></span> 
     well as review and respond to one or two other students’ posts. When
     you are done – or if you are stuck – check your work against The
     Saylor Foundation’s [“Guide to Responding to Unit 1 Reading
-    Questions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ECON301-Unit1GuidetoReadingQuestions-PR-FINAL-RV-Final.pdf)
+    Questions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/ECON301-Unit1GuidetoReadingQuestions-PR-FINAL-RV-Final.pdf)
     for some notes on possible answers.  
         
      Completing this assessment should take approximately 2 hours.
